@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @teddyfight0
-- 👀 I’m interested in learning new stuff in my spare time. I really anticipate to meet amazing people here.
-- 🌱 I’m currently learning python and c/c++ .
-- 📫 You can email me through cherrymark89@gmail.com to communicate with me.
-- ⚡ Fun fact: I find it really hard to learn to code so I come here! I really wish I can learn a lot and enjoy myself here!!!
+- 👋 Hi, nice to meet you!
